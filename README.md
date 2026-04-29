@@ -1,8 +1,8 @@
-AI ESG Compliance Dashboard
+**AI ESG Compliance Dashboard**
 
 This project is an AI-powered ESG analytics tool built using BRSR 
 
-Features
+**Features**
 
 * ESG compliance scoring
 * Company & sector comparison
@@ -10,12 +10,12 @@ Features
 * Risk identification
 * AI-generated insights (simulated)
 
-Tech Stack
+**Tech Stack**
 
 * Python
 * Pandas
 * Streamlit
 
-Use Case
+**Use Case**
 
 Helps analyze ESG performance and identify compliance gaps across companies.
