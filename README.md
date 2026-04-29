@@ -10,7 +10,7 @@ It helps identify:
 
 The goal is to simulate how investors, analysts, and regulators evaluate ESG performance using data and AI.
 
-**Features**
+#**Features**
 
 * ESG compliance scoring
 * Company & sector comparison
@@ -18,13 +18,13 @@ The goal is to simulate how investors, analysts, and regulators evaluate ESG per
 * Risk identification
 * AI-generated insights (simulated)
 
-**Tech Stack**
+#**Tech Stack**
 
 * Python
 * Pandas
 * Streamlit
 
-**Use Case**
+#**Use Case**
 
 Helps analyze ESG performance and identify compliance gaps across companies.
 
